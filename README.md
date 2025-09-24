@@ -23,14 +23,12 @@ English stopword removal
 maximum vocabulary size = 50,000
 
 Model
-
 Logistic Regression
 max_iter=500 to ensure convergence.
 
 Trained using train_test_split (80% training, 20% testing).
 
 Results
-
 Test Accuracy: mostly from (0.903 to 0.91) based on the input
 
 Sample Predictions:
