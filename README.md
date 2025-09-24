@@ -36,12 +36,12 @@ Sample Predictions:
 "I hated the film" → Negative ✅
 "The plot was not bad" → Positive ✅ (handled by negation preprocessing)
 
-🚀 How to Run
-# Install dependencies
+How to Run
+# install dependencies
 pip install pandas scikit-learn
 # Run the script
 python imdb_sentiment.py
 
-📘 Resources
+Resources
 Scikit-learn Logistic Regression
 Text Feature Extraction
